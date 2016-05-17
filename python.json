@@ -1,0 +1,9 @@
+{
+  "id": "python",
+  "cmd": "python -m SimpleHTTPServer",
+  "instances": 1,
+  "cpus": 0.25,
+  "mem": 256,
+  "uris": [],
+  "ipAddress": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "nginx",
+  "container": {
+    "type": "DOCKER",
+    "docker": {
+      "image": "nginx"
+    }
+  },
+  "instances": 1,
+  "cpus": 0.25,
+  "mem": 256,
+  "uris": [],
+  "ipAddress": {}
+}

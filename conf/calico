@@ -1,0 +1,7 @@
+{
+    "name": "any_name",
+    "type": "calico",
+    "ipam": {
+        "type": "calico-ipam"
+    }
+}
